@@ -1,0 +1,5 @@
+./datasets/train/img/1_11.jpg	./datasets/train/gt/1_11.txt
+./datasets/train/img/1_25.jpg	./datasets/train/gt/1_25.txt
+./datasets/train/img/1_56.jpg	./datasets/train/gt/1_56.txt
+./datasets/train/img/2_36.jpg	./datasets/train/gt/2_36.txt
+./datasets/train/img/2_93.jpg	./datasets/train/gt/2_93.txt
